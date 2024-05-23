@@ -22,3 +22,7 @@ modern and recently developed.
 
 **Hatchling**
 Hatchling is a Python library developed by Meta AI that generates text, images, and music using neural networks
+
+**Llama-index**
+Llama-Index: LlamaIndex is the Data Framework for Context-Augmented LLM Apps.
+

@@ -105,3 +105,27 @@ A template may include instructions, few-shot examples, and specific context and
 
 **Adversarial Attack**
 An Adversarial Attack involves the manipulation or exploitation of a Machine Learning model using carefully crafted data. Explore the comprehensive insights into this concerning phenomenon that poses a significant challenge to the field of Artificial Intelligence.
+
+**Agent**
+ - “agent” is an automated reasoning and decision engine
+ -  It takes in a user input/query and can make internal decisions for executing that query in order to return the correct result
+
+  The key agent components can include, but are not limited to:
+- Breaking down a complex question into smaller ones
+- Choosing an external Tool to use + coming up with parameters for calling the Tool
+- Planning out a set of tasks
+- Storing previously completed tasks in a memory module
+
+**Qdrant**
+Qdrant is an Open-Source Vector Database and Vector Search Engine written in Rust.
+
+**FunctionTool**
+FunctionTool: A function tool allows users to easily convert any user-defined function into a Tool. It can also auto-infer the function schema.
+
+**token**
+an individual instance of a type of symbol; "the word 'error' contains three tokens of `r'"
+something serving as a sign of something else
+
+**ObjectIndex**
+- Class of llama_index
+- The ObjectIndex class is one that allows for the indexing of arbitrary Python objects

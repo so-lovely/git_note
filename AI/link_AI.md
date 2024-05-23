@@ -12,3 +12,6 @@
 
 **Prompt Template**
 (https://python.langchain.com/v0.1/docs/modules/model_io/prompts/quick_start/#:~:text=Prompt%20templates%20are%20predefined%20recipes,appropriate%20for%20a%20given%20task.)
+
+**Multi-Document Rag**
+(https://medium.com/the-ai-forum/multi-document-agentic-rag-using-llama-index-and-mistral-b334fa45d3ee)
