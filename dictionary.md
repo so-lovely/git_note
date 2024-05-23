@@ -137,3 +137,35 @@ take in or contain (something) as part of a whole; include.
 
 **shard**
 a piece of broken ceramic, metal, glass, or rock, typically having sharp edges.
+
+**marginal**
+relating to or situated at the edge or margin of something.
+
+**conversely**
+introducing a statement or idea which reverses one that has just been made or referred to.
+
+**intricate**
+very complicated or detailed.
+
+**stateful**
+(computing) That supports different states, reacting to the same input differently depending on the current state.
+
+**pass around**
+to give something to someone, who will then give it to others: 
+
+**deviod of**
+not having something usual or expected
+
+**stringent**
+(of regulations, requirements, or conditions) strict, precise, and exacting.
+
+**preamble**
+a preliminary or preparatory statement; an introduction.
+*preliminary*:denoting an action or event preceding or done in preparation for something fuller or more important.
+
+**invoke**
+cite or appeal to (someone or something) as an authority for an action or in support of an argument.
+
+**graph**
+a diagram showing the relation between variable quantities, typically of two variables, each measured along one of a pair of axes at right angles.
+*diagram*:a simplified drawing showing the appearance, structure, or workings of something; a schematic representation.

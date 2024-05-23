@@ -74,3 +74,34 @@ V-LLM stands for Vision-and-Language Multimodal Transformer
 
 **supervisory**
 having or relating to the role of observing and directing an activity or a person.
+
+**maximum marginal relevance**
+The MaxMarginalRelevanceExampleSelector selects examples based on a combination of which examples are most similar to the inputs, while also optimizing for diversity. It does this by finding the examples with the embeddings that have the greatest cosine similarity with the inputs, and then iteratively adding them while penalizing them for closeness to already selected examples.
+
+**LangGraph**
+LangGraph lets you coordinate and checkpoint multiple chains (or actors) across cyclic computational steps using regular python functions
+The main use is for adding cycles and persistence to your LLM application
+*coordinate* : bring the different elements of (a complex activity or organization) into a relationship that will ensure efficiency or harmony.
+
+
+**UISE**
+User interface Software Engineering
+
+**Tavily API**
+What is Tavily Search API ?
+Tavily Search API is a search engine optimized for LLMs, aimed at efficient, quick and persistent search results. Unlike other search APIs such as Serp or Google, Tavily focuses on optimizing search for AI developers and autonomous AI agents.
+
+**FastEmbed**
+FastEmbed is a lightweight, fast, Python library built for embedding generation.
+
+**Recursive Character Text Splitter**
+The Recursive Character Text Splitter node splits document data recursively to keep all paragraphs, sentences then words together as long as possible.
+*paragraph*: a distinct section of a piece of writing, usually dealing with a single theme and indicated by a new line, indentation, or numbering.
+
+**Prompt Template**
+Prompt templates are predefined recipes for generating prompts for language models.
+
+A template may include instructions, few-shot examples, and specific context and questions appropriate for a given task.
+
+**Adversarial Attack**
+An Adversarial Attack involves the manipulation or exploitation of a Machine Learning model using carefully crafted data. Explore the comprehensive insights into this concerning phenomenon that poses a significant challenge to the field of Artificial Intelligence.
